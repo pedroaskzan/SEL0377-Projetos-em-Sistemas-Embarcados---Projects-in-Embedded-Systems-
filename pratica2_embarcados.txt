@@ -1,0 +1,16 @@
+
+  100  ls
+  101  sudo passwd root
+  102  reboot
+  103  sudo raspi-config
+  104  neofetch
+  105  pinout
+  106  ifconfig
+  107  vnc, ssh
+  108  history > pratica2.txt
+
+feitas todas as atualizações solicitadas na aula anterior, realizamos o VNC obtendo a tela do raspi no nosso celular. Na aula anterior também realizamos o ssh, conseguindo salvar arquivos em outro pc.
+
+Pedro Augusto dos Santos Kzan 12547465
+Luiz
+
